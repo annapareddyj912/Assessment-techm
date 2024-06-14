@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\annap\OneDrive\Desktop\Assessment-techm\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1009254397.index
+1015230967.index
+3129772219.index
+2606562482.index
+1934078796.index
+1315169632.index
